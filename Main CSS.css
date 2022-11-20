@@ -1,0 +1,75 @@
+.header-image {  
+overflow: hidden;
+background-image: url("Header.png"); 
+background-position: center;
+background-repeat: no-repeat;
+position: relative;
+background-size: cover;
+	width:985px;
+	height: 500px}
+
+	
+	
+#div4{
+		width:200px;
+			height:2940px;	
+		
+			float: right;
+			background-color: #d3caba;
+			text-align: center;
+		    opacity: 0.9;
+		}
+		
+		#div5{
+			
+			
+			width:985px;
+			height: 1000px;
+			float: left;
+			margin-right: 0;
+			margin-top: 0;
+			background-color: #795D4C;
+			text-align: center;
+		    opacity: 0.9; 
+			}
+			
+#div6{
+width:985px;
+			height: 600px;
+			float: left;
+			margin-right: 0;
+			margin-top: 0;
+			background-color: #98975;
+			text-align: center;
+		    opacity: 0.9; }
+			
+		
+
+#navigation { 
+width:985px;
+height: 95px;
+ overflow: hidden;
+background-color:#847B60;
+padding: 25px;
+text-align: center;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-size:17px;	
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  background: white;
+  padding: 20px;
+  width: 10%;
+  height: 10%;
+}
+hr.rounded {
+  border-top: 5px solid #CED03D;
+  border-radius: 3px;
+  width: 20%;
+ 
+}
+
+
+
+

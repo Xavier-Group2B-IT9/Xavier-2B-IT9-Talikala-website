@@ -1,0 +1,292 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="Main CSS.css">
+ <!-- Monsterrat -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+ <!-- Rubik -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap" rel="stylesheet">
+ <!-- Mali -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+
+</head>
+<style>
+	div{
+			
+			width:971px;
+			padding: 25px;
+			height: 25px
+		}
+				p{font-family: 'Noto Sans JP', sans-serif;font-size: 23px; color: #C8AF55;}
+
+		 a{font-family: 'Lobster Two', cursive; color: white;} 
+		 h1{ font-family: 'Mali', cursive;  font-size: 70px; }
+		 i{ font-family: 'Sacramento', cursive; font-size: 25px;; color:#C48506; }
+u{font-family: 'Space Mono', monospace;color:#7E6B13;font-size: 25px;}
+b{font-family: 'Poor Story', cursive;color:#A47E10;font-size: 25px;}
+h3{ font-family: 'Rubik Bubbles', cursive; font-size: 15px;}
+h2{ font-family: 'Playfair Display', serif; font-size: 40px;}
+h4{ font-family: 'Syne Mono', monospace; font-size: 30px; }
+#div5{
+			width:985px;
+			height: 850px;
+			float: right;
+			background-color: #847b60;
+		 font-weight: 1000; text-align: center; 
+		 }
+		 
+		
+			
+			#div4{
+			height: 6520px;}
+			
+		 #div6{
+          width:985px;
+			height: 1200px;
+			background-color:#98975a;
+			font-size: 23px;}
+			 
+			#div7{
+          width:985px;
+			height: 1200px;
+			float: left;
+			margin-right: 0;
+			margin-top: 0;
+			background-color:#98975a;
+			text-align: center;
+		    opacity: 0.9;
+			font-family: 'Merriweather', serif;
+			font-size: 18px;}
+			
+	
+#rcorners1 {
+  border-radius: 25px;
+  background: white;
+  padding: 20px;
+  width: 45%;
+  height:25%;
+float: center-left;
+ 
+}
+
+</style>
+<body>
+<div id="div4">
+
+<p style ="color: black;font-family: 'Island Moments', cursive;"> Talikala Institution </p>
+<center>
+
+<u style = "font-family: 'Rubik', sans-serif; font-size: 18px; color: #A93226;" >Below are the links used in our research </u>
+
+</center>
+<br>
+<br>
+<br>
+
+	<a href="https://www.addu.edu.ph/blog/2018/04/05/talikala-inc-drs-jess-and-trining-de-la-paz-award/">
+<img src="gif 1.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+	<a href="https://asksource.info/">
+<img src="gif 2.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a href="https://www.lenityaustralia.com/">
+<img src="gif 3.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://www.awointernational.de/">
+<img src="gif 4.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://www.sunstar.com.ph/article/1942822/davao/local-news/talikala-notes-some-female-children-getting-into-prostitution-at-height-of-pandemic">
+<img src="gif 5.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://yellow.place/en/talikala-inc-davao-city-philippines">
+<img src="gif 6.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://mindanao.politics.com.ph/davao-city-lgu-ngo-talikala-join-hands-vs-online-sexual-exploitation-of-children/">
+<img src="gif 7.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://mb.com.ph/2020/10/05/international-day-of-no-prostitution/">
+<img src="gif 8.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://extension.unh.edu/resource/growing-vegetables-tomatoes-fact-sheet-1">
+<img src="gif 9.gif" width="200" height="200" alt="This will display an animated GIF">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="https://www.webmd.com/food-recipes/ss/slideshow-tomato-health-benefits">
+<img src="gif 10.gif" width="200" height="200" alt="This will display an animated GIF">
+</div>
+	<div class="header-image">
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	</div>
+	<div id="navigation">
+	<a href="index.html">
+         <img alt="Qries" src="navigation 1.png" width="110px">
+		<a href="sip.html">
+		 <img alt="Qries" src="navigation 2.png"
+         width="110px">
+		 	<a href="background.html">
+		 <img alt="Qries" src="navigation 4.png"
+         width="110px">
+		 	<a href="gallery.html">
+		 <img alt="Qries" src="navigation 3.png"
+         width="110px">
+		
+		
+	</div>	
+	<div id="div5">	
+<h1> T.O.M.A.T.O </h1>
+<h4>Tomatoes Organized and Matted Around Talikala's Objectives</h4>
+<img src = "logo.png" width = "300px" height =”300” align="center" >
+<br>
+<br>
+<p align ="justify" style = "color: white;">
+T.O.M.A.T.O was formed in response to the financial situation of our partner institution, 
+Talikala. As students, we are inclined to look for creative solutions for our Talikala therefore
+ we have decided to land on a project that involves planting. T.O.M.A.T.O stands for Tomatoes 
+ Organized and Matted Around Talikala's Objectives which in simple terms means that with the 
+ growing of our tomato plants we are able to provide Talikala with a sustainable source of 
+ food and a small income source.</p>
+ <br>
+ 
+	<br>
+	<br>
+
+ <br>
+ <br>
+ </div>
+ <div id="div7">	
+	<br>
+<img src="bg 1.jpg" style="width:300px" height="300px" vspace="10" hspace="10" align= "right"/>
+<h4>Project Summary</h4>
+			<p align="justify"style = "color: white;">
+	Since Talikala is our <u>group's primary focus,</u> 
+	we have desired objectives to <u>tackle</u> their issues,
+	particularly the <u>lack of funding</u> that contributes 
+	to the <u>lack of resources</u> in their organization. 
+	Being a non-profit, Talikala largely depends on 
+	its <u>sponsors and supporters</u> to keep afloat,
+	particularly in this pandemic period
+	<br>
+	<br>
+<img src="bg 2.jpg" style="width:300px" vspace="10" hspace="10" align="left"/>
+<h4>Community Profile</h4>
+	<p  align="justify"style = "color: white;" >
+	Women who have been affected by <u>prostitution</u>
+	and  <u>sex business</u> 
+	in general can benefit from the <u>safety</u>
+	and care provided by the <u>Talikala</u> 
+	institution. For non-profit groups like 
+	these, issues like a <u>lack of 
+	funding and resources</u> are normal and expected, but there are <u>solutions</u><br>
+	available. The issue is evident within 
+	the <u>institution</u> itself, as even 
+	publications from Sunstar discuss the 
+	<u>scarcity of supplies,</u> particularly 
+	food, caused by a lack of funding that
+	has been made worse by the <u>pandemic</u>
+	
+	<img src="bg 3.jpg" style="width:300px" vspace="10" hspace="10" align="right"/>
+	<h4>Rationale</h4>
+	<p  align="justify"style = "color: white;"00000000000000000000000000000000000000000000000 >
+	We intend to create a <u>project</u> that focuses on providing the <u>organization's individuals</u> with entry to these 
+	two essential resources, given that this is the <u>primary problem</u>. We suggest a project that is focused on <u>tomato 
+	fruit cultivation</u>. We plan to plant with the <u>basic materials</u> like seeds, soil, and water. For instance, we use 
+	the cultivated fruits to <u>sell</u> or <u>eat</u>after planting is finished. This kind of project, in our opinion, is a great 
+	way to address the problems the institution is <u>facing</u>, which makes it extremely <u>significant</u> and <u>sustainable.</u>
+
+
+</div>
+<img src = "Objective 1.png" width = "1030" height =”284” align="left" >	
+<img src = "Objective 2.png" width = "1030" height =”284” align="left" >	
+<div id="div6">	
+<h1> Prjoect Outputs </h1>
+<img src="bg 4.png" style="width:450px" vspace="0" hspace="10" height= "350" align="right"/>
+<p align = "justify" id = "rcorners1" style ="color: black;">
+Our project's outcomes include raising Talikala's access 
+to food and resources through the stock of tomatoes we would 
+procure or grow, enabling them to independently learn gardening skills, 
+and serving as mentors to help them live a healthy lifestyle through 
+the actual planting of tomatoes and the food they consume.</p>
+
+<img src="info.png" style="width:480px" vspace="0" hspace="0" height= "680" align="left"/>
+<img src="info 1.png" style="width:480px" vspace="0" hspace="0" height= "680" align="right"/>
+<br>
+</div>
+<div id="navigation">
+ </div>
+  <img src = "anne.png" width = "1035" height =”284” align="center" >
+    <img src = "coleen.png" width = "1035" height =”284” align="center" >
+
+</body>
+
+</html>
