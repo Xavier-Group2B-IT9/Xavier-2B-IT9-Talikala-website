@@ -1,5 +1,6 @@
 <html>
 <head>
+<title> Institution Homepage - Pasia </title>
 <link rel="stylesheet" type="text/css" href="Main CSS.css">
  <!-- Monsterrat -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,13 +16,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet">
 </head>
 <style>
-	div{
-			
-			width:971px;
-			padding: 25px;
-			height: 25px
-		
-		}
+	
 			 a{font-family: 'Lobster Two', cursive; color: white;} 
 		 h1{ font-family: 'Island Moments', cursive;  font-size: 50px; }
 		 i{ font-family: 'Sacramento', cursive; font-size: 25px;; color:#C48506; }
@@ -33,7 +28,7 @@ b{font-family: 'Poor Story', cursive;color:#A47E10;font-size: 25px;}
 		 font-weight: 1000; text-align: center; font-size: 25px;}
 		 
 		 #div6{
-            width:985px;
+           
 			height: 600px;
 			float: left;
 			margin-right: 0;

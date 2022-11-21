@@ -1,5 +1,6 @@
 <html>
 <head>
+<title> MAPEH - Teo </title>
 <link rel="stylesheet" type="text/css" href="Main CSS.css">
  <!-- Monsterrat -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,19 +30,14 @@
 
 </head>
 <style>
-	div{
-			
-			width:971px;
-			padding: 25px;
-			height: 25px
-		}
+	
 		 a{font-family: 'Lobster Two', cursive; color: white;} 
 		 h1{ font-family: 'Mali', cursive;  font-size: 70px; }
 
 
 #div4{height: 4300px;}		
-#div5{width:985px; height: 800px;}
-#div6{width:985px;height: 600px;background-color:#939C57;}
+#div5{ height: 800px;}
+#div6{height: 600px;background-color:#939C57;}
 		
 
 </style>

@@ -1,5 +1,6 @@
 <html>
 <head>
+<title> SIP - Alicaway </title>
 <link rel="stylesheet" type="text/css" href="Main CSS.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,12 +28,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap" rel="stylesheet">
 </head>
 <style>
-div{
-			
-			width:971px;
-			padding: 25px;
-			height: 25px
-		}
+
 		p{font-family: 'Dosis', sans-serif;
 font-size: 25px; color: #C8AF55;}	
 		 a{font-family: 'Lobster Two', cursive; color: white;} 
@@ -49,7 +45,7 @@ h1 { font-size: 35px;}
 			
 			
 			#div5{
-			width:985px;
+		
 			height: 2800px;
 			float: left;
 			margin-right: 0;

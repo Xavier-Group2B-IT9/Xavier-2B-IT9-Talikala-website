@@ -9,7 +9,12 @@ background-size: cover;
 	height: 500px}
 
 	
-	
+		div{
+			
+			width:971px;
+			padding: 25px;
+			height: 25px
+		}
 #div4{
 		width:200px;
 			height:2940px;	
@@ -69,6 +74,8 @@ hr.rounded {
   width: 20%;
  
 }
+
+
 
 
 
